@@ -10,7 +10,13 @@ By choosing a favorite movie and waiting for a while you can create MIDI that lo
 
 *something needed*
 
-OpenCV, OpenMIDI and Qt are required.
+OpenCV, 
+OpenMIDI and 
+Qt are required:
+
+pip install opencv
+https://github.com/Agnostic/OpenMIDI
+https://www.qt.io/download
 
 *How to use*
 
