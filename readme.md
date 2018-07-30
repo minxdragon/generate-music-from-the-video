@@ -15,7 +15,9 @@ OpenMIDI and
 Qt are required:
 
 pip install opencv
+
 https://github.com/Agnostic/OpenMIDI
+
 https://www.qt.io/download
 
 *How to use*
