@@ -1,3 +1,21 @@
+english translation from google translate: (please let me know if there are any errors!)
+
+*Automatic music composition suitable for movies*
+
+Automatic composition according to the color and motion of the animation
+
+*Description*
+
+By choosing a favorite movie and waiting for a while you can create MIDI that looks like a movie. It reflects the color and motion of the animation and the transition of the scene.
+
+*something needed*
+
+OpenCV, OpenMIDI and Qt are required.
+
+*How to use*
+
+If you compile and pass, you can do exe and if you push it you will see the UI. When you press Select Video, the window will appear, so select a movie. When you want to specify the output location / name, please put it in Name. If not, you can find out the sample.midi in the same location as Exe. Please wait for a while as auto generation starts as you start. It will end at 100%.
+
 動画に合わせた自動楽曲制作
 ====
 
